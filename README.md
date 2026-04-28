@@ -21,7 +21,7 @@
 
 ## ✨ Features
 
-- **🛡️ Cryptographic Vault:** A highly secure interface simulating DigiLocker functionalities to store and retrieve personal identification documents natively.
+- **🛡️ Cryptographic Vault:** A highly secure interface simulating. DigiLocker functionalities to store and retrieve personal identification documents natively.
 - **💼 Dynamic Employment Hub:** An integrated jobs portal specifically curated with algorithmic filtering for Government and Private sector opportunities.
 - **📜 National Welfare Schemes:** Live browsing and application tracking for national and state welfare schemes tailored to the user's demographic.
 - **⚖️ Active Grievance Redressal:** A real-time REST API-driven tracking system where citizens can submit complaints against civic anomalies and track resolution statuses.
